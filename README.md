@@ -106,3 +106,4 @@ All sample content is prototype content and requires human review before public 
 ## Next Steps
 
 Deploy privately, gather expert review, then prepare public beta only after humanitarian, Gaza/oPt contextual, trust/compliance, safeguarding, learning, simulation, foresight, technology/data ethics, and public communication review.
+Private demo deployment trigger.
