@@ -1,0 +1,7 @@
+[
+  {"id":"clear","label":"Clear","pattern":"known problem, known response","userGuidance":"follow established guidance and standards","example":"use official donation channels"},
+  {"id":"complicated","label":"Complicated","pattern":"expert analysis needed","userGuidance":"consult specialists and compare evidence","example":"organization transparency review"},
+  {"id":"complex","label":"Complex","pattern":"many interacting variables, no simple answer","userGuidance":"probe, learn, adapt, watch feedback","example":"social cohesion, youth leadership, long-term recovery"},
+  {"id":"chaotic","label":"Chaotic","pattern":"urgent instability, immediate harm risk","userGuidance":"prioritize safety, stabilization, verified information","example":"rapid displacement or disease-risk signal"},
+  {"id":"uncertain_or_disordered","label":"Uncertain / disordered","pattern":"not enough clarity to classify","userGuidance":"pause, gather evidence, avoid overclaiming","example":"unreviewed live reports"}
+]
