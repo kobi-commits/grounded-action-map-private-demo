@@ -1,0 +1,9 @@
+[
+  {"id":"individual","title":"Learn alone","description":"For individual understanding and reflection.","safetyNote":"Learning outputs should remain source-based and human-reviewed before public use."},
+  {"id":"team","title":"Learn with a team","description":"For friends, student groups, professional teams, or civic groups.","safetyNote":"Teams should assign source review, safeguarding review, and partner review roles."},
+  {"id":"workshop","title":"Workshop","description":"For a structured learning session.","safetyNote":"Workshops should use reviewed facilitation notes and avoid unsupported claims."},
+  {"id":"campus_action_lab","title":"Campus action lab","description":"For universities, labs, or student groups building responsible projects.","safetyNote":"Projects must avoid sensitive data, operational details, and unsupported deployment."},
+  {"id":"community_learning_circle","title":"Community learning circle","description":"For community-based learning, only if partner-mediated and safeguarding-reviewed.","safetyNote":"Community learning circles involving crisis-affected people, minors, or vulnerable groups must be partner-mediated, safeguarding-reviewed, and human-approved."},
+  {"id":"partner_project","title":"Partner project","description":"For learning connected to a vetted organization or institutional partner.","safetyNote":"Partner projects require clear supervision, accountability, safeguarding, and human approval."},
+  {"id":"cross_community_cohort","title":"Cross-community cohort","description":"For learning across communities, only if conflict-sensitive, partner-mediated, safeguarding-reviewed, and human-approved.","safetyNote":"Cross-community cohorts must be conflict-sensitive, partner-mediated, safeguarding-reviewed, and human-approved."}
+]

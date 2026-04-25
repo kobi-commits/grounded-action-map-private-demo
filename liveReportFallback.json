@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fallback-reliefweb-1",
+    "title": "Gaza humanitarian situation update",
+    "sourceName": "ReliefWeb sample",
+    "date": "Fallback sample",
+    "url": "https://reliefweb.int/",
+    "format": "Situation report",
+    "country": "occupied Palestinian territory",
+    "snippet": "Sample report card used when the live ReliefWeb feed is unavailable."
+  },
+  {
+    "id": "fallback-reliefweb-2",
+    "title": "Humanitarian access and civilian protection update",
+    "sourceName": "ReliefWeb sample",
+    "date": "Fallback sample",
+    "url": "https://reliefweb.int/",
+    "format": "Update",
+    "country": "occupied Palestinian territory",
+    "snippet": "Sample public-source input awaiting human review before use in analysis."
+  },
+  {
+    "id": "fallback-reliefweb-3",
+    "title": "Food security and nutrition response bulletin",
+    "sourceName": "ReliefWeb sample",
+    "date": "Fallback sample",
+    "url": "https://reliefweb.int/",
+    "format": "Bulletin",
+    "country": "occupied Palestinian territory",
+    "snippet": "Sample raw report input for demonstration of the review queue concept."
+  },
+  {
+    "id": "fallback-reliefweb-4",
+    "title": "Health services and WASH risk update",
+    "sourceName": "ReliefWeb sample",
+    "date": "Fallback sample",
+    "url": "https://reliefweb.int/",
+    "format": "Situation report",
+    "country": "occupied Palestinian territory",
+    "snippet": "Sample live-feed replacement shown only when the API is not reachable."
+  },
+  {
+    "id": "fallback-reliefweb-5",
+    "title": "Protection and displacement monitoring note",
+    "sourceName": "ReliefWeb sample",
+    "date": "Fallback sample",
+    "url": "https://reliefweb.int/",
+    "format": "Assessment",
+    "country": "occupied Palestinian territory",
+    "snippet": "Sample card illustrating raw reporting that still requires editorial review."
+  }
+]

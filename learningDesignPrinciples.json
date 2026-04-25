@@ -1,0 +1,8 @@
+[
+  {"id":"role-based","title":"Role-based learning","description":"Different users need different pathways: students, donors, community leaders, teachers, technologists, health workers, peacebuilders, and organizations."},
+  {"id":"practice-based","title":"Practice-based learning","description":"Users should create outputs: briefings, workshops, action plans, checklists, partner questions, and project designs."},
+  {"id":"simulation-based","title":"Simulation-based learning","description":"Users should practice decision-making in simplified but realistic scenarios."},
+  {"id":"relational","title":"Relational learning","description":"Learning can happen alone, in teams, in workshops, in campus labs, in community learning circles, or in partner projects."},
+  {"id":"capacity-based","title":"Capacity-based learning","description":"Learning pathways connect to capacities needed at individual, community, organizational, and system levels."},
+  {"id":"continuous-improvement","title":"Continuous improvement","description":"Learning should include reflection, feedback, adaptation, and improvement over time."}
+]

@@ -1,0 +1,8 @@
+[
+  {"id":"w1","sectorId":"food-nutrition","text":"Food insecurity and malnutrition remain urgent.","sourceIds":["ipc","wfp-fsc"],"reviewStatus":"human_review_required"},
+  {"id":"w2","sectorId":"health","text":"Health services remain under severe strain.","sourceIds":["who","ocha-opt"],"reviewStatus":"human_review_required"},
+  {"id":"w3","sectorId":"shelter-displacement","text":"Shelter needs continue due to displacement and damaged housing.","sourceIds":["unrwa","ocha-opt"],"reviewStatus":"human_review_required"},
+  {"id":"w4","sectorId":"wash","text":"WASH risks remain connected to water, sanitation, fuel, and disease prevention.","sourceIds":["unicef","sphere"],"reviewStatus":"human_review_required"},
+  {"id":"w5","sectorId":"education-children","text":"Education disruption creates immediate and long-term child protection risks.","sourceIds":["unicef","unrwa"],"reviewStatus":"human_review_required"},
+  {"id":"w6","sectorId":"protection-social-cohesion","text":"Protection needs are high for women, children, youth, and displaced families.","sourceIds":["unfpa","chs"],"reviewStatus":"human_review_required"}
+]

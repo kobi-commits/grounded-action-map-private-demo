@@ -1,0 +1,6 @@
+[
+  {"id":"humanitarian","title":"Humanitarian","competencies":["humanitarian principles","IHL and civilian protection","WASH basics","public-health preparedness","safeguarding","aid accountability"]},
+  {"id":"peacebuilding","title":"Peacebuilding","competencies":["conflict transformation","mediation","negotiation","trauma-informed engagement","narrative repair","nonviolence","reconciliation and coexistence"]},
+  {"id":"leadership","title":"Leadership","competencies":["conflict intelligence","emotional intelligence","cultural intelligence","organizational intelligence","civic leadership","responsible advocacy"]},
+  {"id":"future-readiness","title":"Future readiness","competencies":["adaptive problem solving","strategic thinking","creative thinking","AI and digital literacy","systems thinking","data literacy","scenario planning"]}
+]

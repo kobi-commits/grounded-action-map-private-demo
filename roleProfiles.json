@@ -1,0 +1,14 @@
+[
+  {"id":"community_member","label":"Community member","description":"A person learning how to understand needs and act responsibly through public information and reviewed pathways."},
+  {"id":"parent_or_caregiver","label":"Parent or caregiver","description":"A caregiver seeking safe, practical learning and referral awareness without direct-risk programming."},
+  {"id":"student","label":"Student","description":"A learner or student leader preparing a briefing, workshop, campus action lab, or responsible support project."},
+  {"id":"donor","label":"Donor","description":"A supporter learning how to read evidence, caveats, and official support channels before acting."},
+  {"id":"ngo_manager","label":"NGO manager","description":"A practitioner or manager reviewing competencies needed for accountable program support."},
+  {"id":"teacher","label":"Teacher","description":"An educator exploring temporary learning, safeguarding, civic education, and trauma-informed learning boundaries."},
+  {"id":"health_worker","label":"Health worker","description":"A health-oriented learner using official public-health resources and non-clinical preparedness content."},
+  {"id":"university_lab","label":"University lab","description":"A university team designing tools, data projects, or learning events under partner review and safety constraints."},
+  {"id":"peacebuilder","label":"Peacebuilder","description":"A facilitator or practitioner connecting humanitarian need to conflict transformation and social repair."},
+  {"id":"policy_advocate","label":"Policy advocate","description":"A civic or policy actor preparing sourced advocacy for humanitarian access and civilian protection."},
+  {"id":"technologist","label":"Technologist","description":"A builder designing public-interest tools with privacy, data minimization, and partner review."},
+  {"id":"community_leader","label":"Community leader","description":"A local or civic leader preparing collective learning, preparedness, or partner-mediated action."}
+]

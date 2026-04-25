@@ -1,0 +1,5 @@
+[
+  {"id":"wash-preparedness-playbook","title":"WASH preparedness learning playbook","issue":"WASH / Disease Prevention","useCase":"Campus or civic groups preparing a non-medical public-health learning session.","steps":["Use official public-health guidance.","Separate learning from medical advice.","Route action through reviewed WASH partners."],"reviewStatus":"human_review_required"},
+  {"id":"education-recovery-playbook","title":"Education recovery learning playbook","issue":"Education & Children","useCase":"Teachers, universities, and partners exploring temporary learning support.","steps":["Name safeguarding boundaries.","Review temporary learning and psychosocial support resources.","Draft partner questions before any program design."],"reviewStatus":"human_review_required"},
+  {"id":"technology-safeguards-playbook","title":"Technology safeguards playbook","issue":"Trust and Transparency","useCase":"University labs and technologists building public-interest prototypes.","steps":["Avoid sensitive data collection.","Do not expose locations or beneficiary identities.","Secure partner review before any deployment."],"reviewStatus":"human_review_required"}
+]

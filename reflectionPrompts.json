@@ -1,0 +1,9 @@
+[
+  {"id":"system-learning","prompt":"What did I learn about the system?","useCase":"Use after reading a sector page, scenario, or pathway."},
+  {"id":"assumptions","prompt":"What assumptions did I make?","useCase":"Use before turning analysis into action."},
+  {"id":"harm-avoidance","prompt":"What harm should I avoid?","useCase":"Use before public communication, workshops, or projects."},
+  {"id":"source-evidence","prompt":"What source evidence do I need?","useCase":"Use when preparing a briefing, checklist, or advocacy note."},
+  {"id":"reviewer","prompt":"Who should review this before action?","useCase":"Use before field-facing, public, youth, health, or technology work."},
+  {"id":"capacity","prompt":"What capacity am I building?","useCase":"Use to connect learning to individual, community, organization, or system needs."},
+  {"id":"next-step","prompt":"What is my responsible next step?","useCase":"Use at the end of every learning session."}
+]
